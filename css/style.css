@@ -1,6 +1,31 @@
-.body {
-   padding-top:56px;
+body
+{
+   padding-top: 56px;
 }
-.jumbotron {
-   background-color:codetblue;
+.jumbotron
+{
+   background-color: none;
+   text-shadow: #000 1px 1px;
+
+}
+.background-header
+{
+   background-image: url("/images/hitam.jpg") ;
+   background-color: #fafbfc;
+   height: 450px;
+   background-position:center;
+   background-repeat: no-repeat;
+   background-size:cover;
+   position: relative;
+}
+.btn-secondary
+{
+   background-color: #808080 ;
+   border-color:#F8F8FF ;
+   color: ;
+}
+.btn-secondary:hover
+{
+   background-color:#87CEFA ;
+   color: #778899 ;
 }
