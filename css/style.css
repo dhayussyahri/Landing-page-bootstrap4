@@ -26,6 +26,11 @@ body
 }
 .btn-secondary:hover
 {
-   background-color:#87CEFA ;
-   color: #778899 ;
+   background-color:#808080 ;
+   color: #000 ;
+}
+.aboutme-style
+{
+   margin-top:15px;
+   background-color:#fafbfc;
 }
