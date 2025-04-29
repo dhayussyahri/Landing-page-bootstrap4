@@ -51,7 +51,7 @@ h2:after
    height: 1px;
    position: relative;
    vertical-align: middle;
-   width: 50%;
+   width: 25%;
 }
 h2::before
 {
